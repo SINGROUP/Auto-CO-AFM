@@ -12,7 +12,7 @@ Automatic evaluator of the CO-functionalized tips in Atomic Force Microscopy
 
 Additionally, you need to have Cuda and cuDNN correctly configured on your system in order to train the models on an Nvidia GPU.
 ## Database
-AFM-data with CO-tips samples can be downloaded [here] (https://www.dropbox.com/s/wqhgbvdlfb6snic/datasetNew6.tar.gz?dl=0). 
+AFM-data with CO-tips samples can be downloaded [here](https://www.dropbox.com/s/wqhgbvdlfb6snic/datasetNew6.tar.gz?dl=0). 
 
 ## Installation
 
