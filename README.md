@@ -1,4 +1,8 @@
-# Assessing quality of CO functionalized tips
+# CO-tip-evaluator
+Automatic evaluator of the CO-functionalized tips in Atomic Force Microscopy
+
+![Schematic](/images/CO-tip-evaluator.png)
+
 
  The machine learning models are implemented in Tensorflow 1.12. The code is currently written in Python 3. At least the following Python packages are required:
 * numpy

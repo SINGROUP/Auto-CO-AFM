@@ -1,5 +1,9 @@
 
 *.pyc
-*.png
 # ignore compiled python 3 files
 __pycache__
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
