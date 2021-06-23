@@ -1,5 +1,5 @@
-# CO-tip-evaluator
-Automatic evaluator of the CO-functionalized tips in Atomic Force Microscopy
+# Auto-CO-AFM
+An automated solution for carbon monoxide functionalization which combinesmachine learning descriptors with automated software control of the tip preparation process. 
 
 ![Schematic](/images/CO-tip-evaluator.png)
 
