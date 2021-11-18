@@ -31,3 +31,4 @@ The folder `pretrained_weights` holds the weights for pretrained model.
 
 To predict quality of CO-tip on some set of images of CO tips, open the `predict_TF.ipynb` notebook, and follow the instructions therein. Good CO tips predicted as 1, bads COs as 0.
 
+To perform autonomous CO functionalization, open the `auto-co.ipynb` notebook, and follow the instructions therein. Ensure that your CreaTec STM is already connected and that COM support is enabled during CreaTec STMAFM software installation.
